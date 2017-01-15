@@ -1,16 +1,41 @@
----
-title: Jasmine "lnishan" Chen
-email: lnishan.cs01@g2.nctu.edu.tw
-description: |
-  Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-baseurl: ''
-url: ''
-twitter_username: lnishantw
-github_username: lnishan
+# Site settings
+title: 'Jasmine "lnishan" Chen'
+description: 'A relentless dream chaser'
+url: 'https://lnishan.github.io'
+baseurl: '/'
+timezone: 'Asia/Taipei'
+cv: 'https://lnishan.github.io/Curriculum-Vitae/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Jasmine Chen'
+  email: lnishan.cs01@g2.nctu.edu.tw
+  twitter_username: lnishantw
+  facebook_username: lnishantw
+  github_username: lnishan
+  linkedin_username: lnishantw
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
-theme: minima
-gems:
-- jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

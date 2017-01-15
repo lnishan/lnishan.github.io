@@ -1,7 +1,7 @@
 ---
-title: About
 layout: page
-permalink: "/about/"
+title: About
+permalink: /about/
 ---
 
 # Jasmine “lnishan” Chen
