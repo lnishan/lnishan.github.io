@@ -2,7 +2,6 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 gem "json"
-gem 'github-pages'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -22,7 +21,8 @@ gem 'github-pages'
 # gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-#group :jekyll_plugins do
+group :jekyll_plugins do
 #   gem "jekyll-feed", "~> 0.6"
-#   gem 'jekyll-admin'
-#end
+#	gem 'jekyll-admin'
+	gem 'github-pages'
+end
