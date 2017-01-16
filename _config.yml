@@ -6,7 +6,7 @@ baseurl: '/'
 timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'jasmine-lnishan-chens-blog'
 
 author:
   name: 'Jasmine Chen'
