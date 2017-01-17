@@ -1,5 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Slab:300,400)';
-@import 'https://fonts.googleapis.com/earlyaccess/notosanstc.css';
+@import 'https://fonts.googleapis.com/earlyaccess/cwtexhei.css';
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
@@ -926,7 +926,7 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Open Sans", "Helvetica Neue", "Noto Sans TC", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", "cwTeXHei", Helvetica, Arial, sans-serif;
 	font-size: 1em;
 	color: #666666; }
 
