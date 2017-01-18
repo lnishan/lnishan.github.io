@@ -1465,6 +1465,20 @@ i {
 *:focus {
 	outline: none; }
 
+
+
+.panel-cover--collapsed .panel-title {
+	font-size: 1.8em;
+	letter-spacing: 2px;
+}
+
+.panel-cover--collapsed .user-image {
+	width: 120px;
+	height: 120px;
+}
+
+
+
 input[type="text"],
 input[type="password"],
 input[type="datetime"],
