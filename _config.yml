@@ -7,6 +7,7 @@ timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'jasmine-lnishan-chens-blog'
+excerpt_separator: '<!--more-->'
 
 author:
   name: 'Jasmine Chen'

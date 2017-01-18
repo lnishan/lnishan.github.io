@@ -58,3 +58,27 @@ pre.highlight code,
   border: 3px solid #fff;
   border-radius:100%;
 }
+
+.page-navigation {
+  font-size: 14px;
+  display: block;
+  margin: 2em 0;
+  width: auto;
+  overflow: hidden;
+  padding: 1em 0;
+  border-top: 2px solid #dddddd;
+}
+
+.page-navigation-container {
+  display: inline-block;
+  position: relative;
+  float: left;
+  width: 50%;
+  height: 2em;
+  padding: 0;
+  margin: 0;
+}
+
+.page-navigation-container-right {
+  text-align: right;
+}
