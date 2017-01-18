@@ -62,10 +62,10 @@ pre.highlight code,
 .page-navigation {
   font-size: 14px;
   display: block;
-  margin: 2em 0;
+  margin: 3em 0 0 0;
   width: auto;
   overflow: hidden;
-  padding: 1em 0;
+  padding: 1em 0 0 0;
   border-top: 2px solid #dddddd;
 }
 
