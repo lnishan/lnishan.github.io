@@ -5,7 +5,7 @@ url: 'https://lnishan.github.io'
 baseurl: '/'
 timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-90684411-1'
 disqus_shortname: 'jasmine-lnishan-chens-blog'
 excerpt_separator: '<!--more-->'
 
