@@ -1,8 +1,8 @@
 ---
 title:  "Internship - Step 0"
 date:   2017-01-19 15:44:00 +0800
-categories: []
-tags: []
+categories: ['Internship']
+tags: ['Internship']
 comments: true
 ---
 
