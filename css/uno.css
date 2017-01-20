@@ -1570,6 +1570,11 @@ input[type="tel"] {
 	input[type="tel"]:-ms-input-placeholder {
 		color: #cccccc; }
 
+@media all and (min-width: 1400px) {
+	.content-wrapper {
+		max-width: 900px;
+	}
+}
 @media all and (min-width: 1300px) {
 	.content-wrapper {
 		margin-left: 530px; } }
