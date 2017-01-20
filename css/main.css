@@ -82,3 +82,7 @@ pre.highlight code,
 .page-navigation-container-right {
   text-align: right;
 }
+
+#disqus_thread {
+  margin-top: 2em;
+}
