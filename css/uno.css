@@ -1470,20 +1470,6 @@ i {
 *:focus {
 	outline: none; }
 
-
-
-.panel-cover--collapsed .panel-title {
-	font-size: 1.8em;
-	letter-spacing: 2px;
-}
-
-.panel-cover--collapsed .user-image {
-	width: 120px;
-	height: 120px;
-}
-
-
-
 input[type="text"],
 input[type="password"],
 input[type="datetime"],
@@ -1498,8 +1484,7 @@ input[type="url"],
 input[type="search"],
 input[type="tel"] {
 	width: 240px;
-	padding: 1em 1em;
-	background: #FFF;
+	padding: 1em 1em;	background: #FFF;
 	border: 1px solid #dddddd;
 	border-radius: 3px;
 	font-size: .9em;
@@ -1548,8 +1533,7 @@ input[type="tel"] {
 		color: #cccccc; }
 	input[type="text"]:-moz-placeholder,
 	input[type="password"]:-moz-placeholder,
-	input[type="datetime"]:-moz-placeholder,
-	input[type="datetime-local"]:-moz-placeholder,
+	input[type="datetime"]:-moz-placeholder,	input[type="datetime-local"]:-moz-placeholder,
 	input[type="date"]:-moz-placeholder,
 	input[type="month"]:-moz-placeholder,
 	input[type="time"]:-moz-placeholder,
@@ -1598,8 +1582,18 @@ input[type="tel"] {
 		font-size: .9em; }
 
 	.navigation--social {
-		margin-top: 5px;
-		margin-left: 0; } }
+		margin-top: 5px;		margin-left: 0; } }
+@media all and (min-width: 961px) {
+	.panel-cover--collapsed .panel-title {
+		font-size: 1.8em;
+		letter-spacing: 2px;
+	}
+
+	.panel-cover--collapsed .user-image {
+		width: 120px;
+		height: 120px;
+	}
+}
 @media all and (max-width: 960px) {
 	.btn-mobile-menu {
 		display: block; }
@@ -1648,8 +1642,7 @@ input[type="tel"] {
 
 	.navigation-wrapper {
 		display: none;
-		position: fixed;
-		top: 42px;
+		position: fixed;		top: 42px;
 		right: 0;
 		left: 0;
 		width: 100%;
@@ -1699,7 +1692,6 @@ input[type="tel"] {
 
 	.panel-subtitle {
 		font-size: .9em; }
-
 	.btn, .navigation__item a {
 		display: block;
 		margin-bottom: .4em; } }
