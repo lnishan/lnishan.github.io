@@ -1114,6 +1114,8 @@ pre {
 
 .footer__copyright {
 	display: block;
+	float: right;
+	right: 0;
 	margin-bottom: .7em; }
 	.footer__copyright a {
 		color: #a6a6a6;
