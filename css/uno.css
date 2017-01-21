@@ -926,7 +926,7 @@ html {
 	max-height: 100%; }
 
 body {
-	font-family: "Open Sans", "Helvetica Neue", "cwTeXHei", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, "cwTeXHei", Arial, sans-serif;
 	font-size: 1em;
 	color: #6c6678; }
 
