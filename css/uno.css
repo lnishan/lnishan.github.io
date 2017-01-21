@@ -1566,7 +1566,7 @@ input[type="tel"] {
 	input[type="tel"]:-ms-input-placeholder {
 		color: #cccccc; }
 
-@media all and (min-width: 1460px) {
+@media all and (min-width: 1400px) {
 	.content-wrapper {
 		max-width: 960px;
 	}
