@@ -1020,8 +1020,8 @@ code {
 	background: #e8f2fb;
 	border: 1px solid #c9e1f6;
 	border-radius: 3px;
-	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-	font-size: .85em; }
+	font-family: DejaVu Sans Mono, Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	font-size: .9em; }
 
 pre {
 	margin-bottom: 1.3em;
@@ -1029,7 +1029,7 @@ pre {
 	background: #e8f2fb;
 	border: 1px solid #c9e1f6; */
 	border-radius: 3px;
-	font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	font-family: DejaVu Sans Mono, Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
 	font-size: .9em;
 	font-weight: normal;
 	line-height: 1.3em; }
