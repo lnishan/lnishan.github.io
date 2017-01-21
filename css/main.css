@@ -46,6 +46,11 @@ pre.highlight code,
   padding: 0 5px;
 }
 
+.post-meta__categories {
+  font-size: 12px;
+  padding: 0 5px;
+}
+
 .footer__copyright {
     margin: 0 20px 10px;
 }
