@@ -9,10 +9,12 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
 	<span class="post-tags">{% for tag in page.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">#{{ tag }}</a> {% endfor %}</span>
   </header>
+  <hr class="post-heading__divider">
 
   <section class="post">
     {{ content }}
   </section>
+  <hr class="post__divider">
   
   <div class="page-navigation">
     <div class="page-navigation-container">
@@ -26,7 +28,12 @@ layout: default
     {% endif %}
     </div>
   </div>
+  <hr class="post__divider">
   
-  {% if page.comments != false and site.idcomments_acct %}{% include idcomments.html %}{% endif %}
+  {% if page.comments != false and site.idcomments_acct %}
+  {% include idcomments.html %}
+  <hr class="post__divider">
+  {% endif %}
+  
   
 </article>

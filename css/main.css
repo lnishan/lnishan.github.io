@@ -28,10 +28,6 @@ pre.highlight code,
   padding: 10px;
 }
 
-.post {
-  margin-top: 2em;
-}
-
 .categories,
 .tags,
 .post-list__post-tags {
@@ -59,13 +55,19 @@ pre.highlight code,
   white-space: nowrap;
 }
 
+.post-heading__divider,
 .categories-heading__divider,
 .tags-heading__divider {
-  width: 100%;
+  width: 95%;
   margin: 1.6em 0 1.5em 0;
   border-top: 1px solid #dddddd;
 }
 
+.post__divider {
+  width: 95%;
+  margin: 1.6em 0 1.5em 0;
+  border-top: 1px solid #dddddd;
+}
 .categories__divider,
 .tags__divider {
   width: 30%;
@@ -99,11 +101,8 @@ pre.highlight code,
 .page-navigation {
   font-size: 1em;
   display: block;
-  margin: 3em 0 0 0;
   width: auto;
   overflow: hidden;
-  padding: 1em 0 0 0;
-  border-top: 2px solid #dddddd;
 }
 
 .page-navigation-container {
