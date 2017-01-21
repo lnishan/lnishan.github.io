@@ -2,11 +2,10 @@
 title:  "Internship - Step 0"
 date:   2017-01-19 15:44:00 +0800
 categories: ['Internship']
-tags: ['Internship']
+tags: ['LetsChat', 'Internship']
 comments: true
 ---
 
-#LetsChat  
 來聊聊實習的第零步 (?) 吧 :)  
 我覺得在實習前，很重要的一件事是：**清楚了解自己想要的是什麼**、想從這段過程得到怎樣的收穫；
 
