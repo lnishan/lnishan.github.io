@@ -32,16 +32,30 @@ pre.highlight code,
   margin-top: 2em;
 }
 
+.categories,
+.tags,
+.post-list__post-tags {
+	display: block;
+	font-size: .9em;
+	margin: .8em 0;
+}
+
+.post-tags {
+	display: block;
+	font-size: 1em;
+}
+
 .categories a,
-.tags a {
-  border: 1px solid #e25440;
-  border-radius: 20px;
-  color: #e25440;
+.tags a,
+.post-tags a,
+.post-list__post-tags a {
   display: inline-block;
-  font-size: 0.9em;
-  margin: 5px 0;
-  padding: 5px 10px;
-  text-shadow: none;
+  background-color: #f5edff;
+  border: 1px solid #e0ccf9;
+  border-radius: 4px;
+  padding: .2em .4em;
+  margin-right: 5px;
+  line-height: 1em;
   white-space: nowrap;
 }
 
