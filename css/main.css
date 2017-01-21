@@ -28,6 +28,10 @@ pre.highlight code,
   padding: 10px;
 }
 
+.post {
+	margin-top: 2em;
+}
+
 .categories a,
 .tags a {
   border: 1px solid #e25440;

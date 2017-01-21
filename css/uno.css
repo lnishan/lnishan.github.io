@@ -1144,6 +1144,21 @@ hr {
 	border-top: 1px solid #dddddd;
 	padding: 60px 0; }
 
+.post-tags {
+	display: block;
+	font-size: 1em;
+	margin: .8em 0;
+}
+
+.post-tags a {
+	display: inline-block;
+	background-color: #f1e8fb;
+	border: 1px solid #ddc8f4;
+	border-radius: 4px;
+	padding: .2em .4em;
+	margin-right: 5px;
+}
+
 .post-meta {
 	margin: 0 0 .4em 0;
 	color: #9f97af; }
@@ -1448,6 +1463,21 @@ i {
 		color: #36333c; }
 		.post-list__post-title a:hover {
 			color: #c13034; }
+
+.post-list__post-tags {
+	display: block;
+	font-size: .8em;
+	margin: .8em 0;
+}
+
+.post-list__post-tags a {
+	display: inline-block;
+	background-color: #f1e8fb;
+	border: 1px solid #ddc8f4;
+	border-radius: 4px;
+	padding: .2em .4em;
+	margin-right: 5px;
+}
 
 .post-list__meta {
 	display: block;

@@ -7,6 +7,7 @@ layout: default
       <time datetime="{{ page.date | date: "%-d %b %Y" }}" class="post-meta__date date">{{ page.date | date: "%-d %b %Y" }}</time> &#8226; <span class="post-meta__categories">on {% for catitem in page.categories %}<a href="{{ site.baseurl }}categories/#{{ catitem }}">{{ catitem }}</a> {% endfor %}</span>
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
+	<span class="post-tags">{% for tag in page.tags %}<a href="{{ site.baseurl }}tags/#{{ tag }}">#{{ tag }}</a> {% endfor %}</span>
   </header>
 
   <section class="post">
