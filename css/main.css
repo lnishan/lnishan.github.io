@@ -34,7 +34,7 @@ pre.highlight code,
   border-radius: 20px;
   color: #e25440;
   display: inline-block;
-  font-size: 12px;
+  font-size: 0.9em;
   margin: 5px 0;
   padding: 5px 10px;
   text-shadow: none;
@@ -42,12 +42,12 @@ pre.highlight code,
 }
 
 .post-meta__tags {
-  font-size: 12px;
+  font-size: 0.9em;
   padding: 0 5px;
 }
 
 .post-meta__categories {
-  font-size: 12px;
+  font-size: 0.9em;
   padding: 0 5px;
 }
 
