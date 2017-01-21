@@ -59,6 +59,20 @@ pre.highlight code,
   white-space: nowrap;
 }
 
+.categories-heading_divider,
+.tags-heading__divider {
+  width: 100%;
+  margin: 1.6em 0 1.5em 0;
+  border-top: 1px solid #dddddd;
+}
+
+.categories_divider,
+.tags__divider {
+  width: 30%;
+  margin: 1.6em 0 1.5em 0;
+  border-top: 1px solid #dddddd;
+}
+
 .post-meta__tags {
   font-size: 0.9em;
   padding: 0 5px;

@@ -7,6 +7,7 @@ layout: default
   <a href="#{{ catitem[0] }}">{{  catitem[0] }}</a>
 {% endfor %}
 </div>
+<hr class="categories-heading__divider">
 
 <!-- iterate through all categories on the site --> 
 {% for catitem in site.categories %} 
@@ -26,4 +27,5 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  <hr class="categories__divider">
 {% endfor %}
