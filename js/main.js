@@ -12,6 +12,7 @@ $(document).ready(function () {
     } else {
       $('.panel-cover').css('max-width', currentWidth)
 	  $('.panel-cover .panel-title').animate({'font-size': '1.8em', 'letter-spacing': '2px'}, 400)
+	  $('.panel-cover .panel-cover__description').animate({'font-size': '0.9em'}, 400)
 	  $('.panel-cover .user-image').animate({'width': '120px', 'height': '120px'}, 400)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {  $('.panel-cover').addClass('panel-cover--collapsed')  })
     }

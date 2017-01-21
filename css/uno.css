@@ -1618,6 +1618,10 @@ input[type="tel"] {
 		font-size: 1.8em;
 		letter-spacing: 2px;
 	}
+	
+	.panel-cover--collapsed .panel-cover__description {
+		font-size: 0.9em;
+	}
 
 	.panel-cover--collapsed .user-image {
 		width: 120px;
