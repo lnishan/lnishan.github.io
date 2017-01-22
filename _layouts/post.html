@@ -30,9 +30,9 @@ layout: default
   </div>
   <hr class="post__divider">
   
-  {% if page.comments != false and site.idcomments_acct %}
-  {% include idcomments.html %}
-  <hr class="post__divider">
+  {% if page.comments != false %}
+    {% include isso.html %}
+    <hr class="post__divider">
   {% endif %}
   
   

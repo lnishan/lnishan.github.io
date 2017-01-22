@@ -6,7 +6,8 @@ baseurl: '/'
 timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 google_analytics: 'UA-90684411-1'
-idcomments_acct: '1284e9358393724c16dd94a61527ece0'
+# idcomments_acct: '1284e9358393724c16dd94a61527ece0'
+isso_server: '//comments.vps.lnishan.net/'
 excerpt_separator: '<!--more-->'
 
 author:
