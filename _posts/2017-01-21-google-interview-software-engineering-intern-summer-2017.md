@@ -19,7 +19,7 @@ Google 有很多實習生的 program ，
 其中跟 CS 領域相關的有 `Software Engineering Intern` (大三以上)、以及 `Engineering Practicum Intern` (大一、大二)，
 而我申請的是 `Software Engineering Intern` (BS/MS, Summer 2017) 。
 
-如果大家對 Google 有興趣的話，
+大家對 Google 有興趣的話，
  Google 有一個 YouTube 頻道 - [Google Students](https://www.youtube.com/user/GoogleStudents) 專門在介紹相關事物。
 這個頻道剛好最近有更新了一些相關的影片：
 
@@ -81,7 +81,7 @@ Google 有很多實習生的 program ，
   - 這邊的面試比較像是聊天，主管會聊聊實習的 project 內容，也會深入聊聊你過去相關的經歷。
   - 這個階段最多只能待 6 周，如果中間有假期可以延長，但期限過了面試階段就等於結束了。
 - 心得
-  - 這關被很多人認為是 Google 面試流程中最難受的一關，面試分數較低或是背景較不突出的可能會在這裡等上好幾周；我的分數好像不差，所以一周就 match 了 2 個 team 。
+  - 這關被很多人認為是 Google 面試流程中最難受的一關，面試分數較低或是背景較不突出的可能會在這裡等上好幾周；我的分數好像不差，所以一周內就 match 了 2 個 team 。
   - 我個人覺得這個制度的問題在於：大家都會想要最好的人選，所以中後段的人（但其實這些人也擊敗了九成的申請者）就會很晚才被挑到，這跟某些運動的選秀會大概是類似的感覺。
   - 不幸的是，有少數人可能最後還是 match 不到 project，對他們來說面試階段就到這邊結束了，明年有可能得重新面一遍。
   - People Skills 很重要，只有 30 分鐘讓主管喜歡你（！？），一定要讓主管在這短短的時間感受到你高度的熱誠與興趣。
