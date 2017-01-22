@@ -6,8 +6,7 @@ tags: ['CompetitiveProgramming', 'GitHub']
 comments: true
 ---
 
-我覺得每次帶著好的意圖所做的事情，  
-結果都會超乎預期的棒耶 :)
+我覺得每次帶著好的意圖所做的事情，結果都會超乎預期的棒耶 :)
 
 <!--more-->
 
