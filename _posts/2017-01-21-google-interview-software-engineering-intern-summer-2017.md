@@ -101,4 +101,5 @@ PS. 這關好像是 5 年前新增的，也是個新制度。
 - [Google Careers](https://careers.google.com/)
 - [Google Students - YouTube](https://www.youtube.com/user/GoogleStudents)
 - [Google Internships - Quora](https://www.quora.com/topic/Google-Internships)
+- [Google Interview Prep, Summer 2017 - Jasmine Chen](https://goo.gl/2cYleI) *我自己做的面試準備文件*
 
