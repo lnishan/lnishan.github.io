@@ -15,6 +15,8 @@
 - [Google Fonts](https://fonts.google.com/)
   - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
   - [cwTeXHei (Chinese-Traditional)](https://fonts.google.com/earlyaccess#cwTeXHei)
+- [Google Analytics](https://analytics.google.com/)
+- [Facebook Comments Plugin](https://developers.facebook.com/docs/plugins/comments/)
 
 
 ## Installation and Building
