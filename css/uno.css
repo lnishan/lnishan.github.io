@@ -1477,6 +1477,20 @@ i {
 *:focus {
 	outline: none; }
 
+.panel-cover--collapsed .panel-title {
+	font-size: 1.8em;
+	letter-spacing: 2px;
+}
+
+.panel-cover--collapsed .panel-cover__description {
+	font-size: 0.9em;
+}
+
+.panel-cover--collapsed .user-image {
+	width: 120px;
+	height: 120px;
+}
+
 input[type="text"],
 input[type="password"],
 input[type="datetime"],
@@ -1590,21 +1604,6 @@ input[type="tel"] {
 
 	.navigation--social {
 		margin-top: 5px;		margin-left: 0; } }
-@media all and (min-width: 961px) {
-	.panel-cover--collapsed .panel-title {
-		font-size: 1.8em;
-		letter-spacing: 2px;
-	}
-	
-	.panel-cover--collapsed .panel-cover__description {
-		font-size: 0.9em;
-	}
-
-	.panel-cover--collapsed .user-image {
-		width: 120px;
-		height: 120px;
-	}
-}
 @media all and (max-width: 960px) {
 	.btn-mobile-menu {
 		display: block; }
