@@ -24,5 +24,5 @@ gem "json"
 group :jekyll_plugins do
 #   gem "jekyll-feed", "~> 0.6"
 #	gem 'jekyll-admin'
-	gem 'github-pages'
+	gem 'github-pages', '~> 116'
 end
