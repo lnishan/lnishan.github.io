@@ -3,9 +3,9 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{{ site.description }}">
-  <meta name="author" content="{{ site.author.name }}">
+  <title>{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}</title>
+  <meta name="description" content="{{ site.description | xml_escape }}">
+  <meta name="author" content="{{ site.author.name | xml_escape }}">
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -14,11 +14,11 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ site.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:description" content="{{ site.description | xml_escape }}">
 
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:title" content="{{ site.title | xml_escape }}">
+  <meta property="og:description" content="{{ site.description | xml_escape }}">
 
 
   <link rel="icon" type="image/png" href="{{ "images/favicons/favicon.png" | prepend: site.baseurl }}" sizes="16x16">
@@ -27,7 +27,7 @@
 
   <link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ site.baseurl }}feed.xml">
   
   <meta property="fb:admins" content="100003220421706">
   <meta property="fb:app_id" content="228652297542969">

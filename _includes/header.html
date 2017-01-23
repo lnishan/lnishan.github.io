@@ -8,20 +8,20 @@
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-        <a href="{{ site.baseurl }}" title="link to home of {{ site.title }}">
+        <a href="{{ site.baseurl }}" title="link to home of {{ site.title | xml_escape }}">
           <img src="{{ "images/profile.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
-          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+          <h1 class="panel-cover__title panel-title">{{ site.title | xml_escape }}</h1>
         </a>
         <hr class="panel-cover__divider">
-        <p class="panel-cover__description">{{ site.description }}</p>
+        <p class="panel-cover__description">{{ site.description | xml_escape }}</p>
         <hr class="panel-cover__divider panel-cover__divider--secondary">
 
         <div class="navigation-wrapper">
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="link to {{ site.title }} blog" class="blog-button">Blog</a></li>
-			  <li class="navigation__item"><a href="{{ site.baseurl }}about" title="link to {{ site.title }} about" class="blog-button">About</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="link to {{ site.title | xml_escape }} blog" class="blog-button">Blog</a></li>
+			  <li class="navigation__item"><a href="{{ site.baseurl }}about" title="link to {{ site.title | xml_escape }} about" class="blog-button">About</a></li>
             </ul>
           </nav>
 
