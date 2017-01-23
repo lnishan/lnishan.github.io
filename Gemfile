@@ -22,7 +22,7 @@ gem "json"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-#   gem "jekyll-feed", "~> 0.6"
-#	gem 'jekyll-admin'
+# 	gem "jekyll-feed", "~> 0.6"
+	gem 'jekyll-admin'
 	gem 'github-pages', '~> 116'
 end
