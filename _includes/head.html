@@ -2,9 +2,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  {% assign title = site.title | xml_escape %}
+  {% if page.title %}
+    {% assign title = page.title | xml_escape %}
+  {% endif %}
+  
+  {% assign desc = site.description | xml_escape %}
+  {% if page.excerpt %}
+    {% assign desc = page.excerpt | remove: '<p>' | remove: '</p>' | xml_escape %}
+  {% endif %}
 
-  <title>{% if page.title %}{{ page.title | xml_escape }}{% else %}{{ site.title | xml_escape }}{% endif %}</title>
-  <meta name="description" content="{{ site.description | xml_escape }}">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ desc }}">
   <meta name="author" content="{{ site.author.name | xml_escape }}">
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
@@ -13,12 +23,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ site.title | xml_escape }}">
-  <meta name="twitter:description" content="{{ site.description | xml_escape }}">
+  <meta name="twitter:title" content="{{ title }}">
+  <meta name="twitter:description" content="{{ desc }}">
 
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{{ site.title | xml_escape }}">
-  <meta property="og:description" content="{{ site.description | xml_escape }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ desc }}">
 
 
   <link rel="icon" type="image/png" href="{{ "images/favicons/favicon.png" | prepend: site.baseurl }}" sizes="16x16">
