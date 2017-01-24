@@ -10,7 +10,7 @@
   
   {% assign desc = site.description | xml_escape %}
   {% if page.excerpt %}
-    {% assign desc = page.excerpt | remove: '<p>' | remove: '</p>' | xml_escape %}
+    {% assign desc = page.excerpt | remove: '<p>' | remove: '</p>' | replace: '<br />', '&nbsp;&nbsp;&nbsp;' | xml_escape %}
   {% endif %}
 
   <title>{{ title }}</title>
