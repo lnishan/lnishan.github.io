@@ -27,7 +27,7 @@ git clone git@github.com:lnishan/lnishan.github.io.git
 cd lnishan.github.io
 
 # install required gems and dependencies
-# Bypass nokogiri libxml2 error by: bundle config build.nokogiri --use-system-libraries
+# bypass nokogiri libxml2 error by: bundle config build.nokogiri --use-system-libraries
 bundle install
 
 # build and run locally
