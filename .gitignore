@@ -59,3 +59,4 @@ Gemfile.lock
 
 
 *.exe.stackdump
+.DS_Store
