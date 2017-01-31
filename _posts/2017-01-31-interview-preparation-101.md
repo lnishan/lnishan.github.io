@@ -47,7 +47,7 @@ comments: true
 三個小點帶一下：）
 
 - 盡早學習使用 Git 及 GitHub
-  - Git 是一套很實用的版本控制系統，簡單來說 Git 允許你對專案東改西改也不怕改壞，或是改到不知道自己在寫什麼（？）之類的窘境 0.0。
+  - Git 是一套很實用的版本控制系統，簡單來說 Git 允許你對你的專案東改改西改改也不怕改壞，或是改到不知道自己在寫什麼（？）之類的窘境 0.0。
   - Git 有很高的學習曲線，但我覺得 Git 跟 Vim 很像，上手了就超好用的！（大心 <3）
   - Git 除了在開發上很方便， Git 還救了我好幾次作業呢（！）。
 - 會不會有人看
@@ -73,6 +73,8 @@ LinkedIn 上也會有人 PO 一些文章或是新聞討論各種議題，不過�
 
 ### Quora
 
+這邊特別介紹 [Quora](https://www.quora.com) ，因為我在這邊學到了不僅僅只是面試相關的知識、公司的制度文化而已，我在 [Quora](https://www.quora.com) 各種專業知識也補充了不少，而且在這邊其實什麼都學得到唷！
+
 [Quora](https://www.quora.com) 是一個近幾年竄起的問答平台，創辦人是前 Facebook 元老員工，可能是因為這樣這平台經營得還滿不錯的！ 在上面常常會有超優質的答案：） 也不乏各領域的名人唷！（比如說 [Vint Cerf](https://www.quora.com/profile/Vint-Cerf) — 網路之父、 [Thomas Cormen](https://www.quora.com/profile/Thomas-Cormen-1) — 演算法聖經 Introduction to Algorithms 共同作者）
 
 - 註冊時可以選擇有興趣的主題選擇（建議註冊時就先把有興趣的都選起來，後面好像就沒有這樣方便的選擇界面了）  
@@ -80,6 +82,7 @@ LinkedIn 上也會有人 PO 一些文章或是新聞討論各種議題，不過�
 - 註冊完就可以看到為你專屬打造的 Question/Answer Feed 了：Ｄ  
 ![Question/Answer Feed - Quora](http://i.imgur.com/l6Iuyac.png)
 
-我在 [Quora](https://www.quora.com) 收穫滿多的，Try it and you'll see why! :)
+ [Quora](https://www.quora.com) 超棒的！  
+ Try it and you'll see why! :)
 
 
