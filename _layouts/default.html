@@ -3,6 +3,9 @@
   {% include head.html %}
 
   <body>
+    {% if page.comments != false %}
+      {% include facebook-script.html %}
+    {% endif %}
     {% include header.html %}
 
     <div class="content-wrapper">
