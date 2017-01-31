@@ -9,7 +9,7 @@ comments: true
 來細聊面試的準備工作吧：）  
 補一下我[去年留的坑](https://www.facebook.com/lnishantw/posts/1150488388401831) XD ，
 而且上一篇 Google 主要是帶面試流程所以沒有特別講到準備工作；  
-我會帶個幾點我覺得重要的分享一下～
+我會帶幾個我覺得重要的點分享一下～
 
 <!--more-->
 
@@ -69,3 +69,17 @@ LinkedIn 的用途大概有這些：
 
 LinkedIn 上也會有人 PO 一些文章或是新聞討論各種議題，不過以我的專長領域來說（CS），我是覺得上面大部分文章的素質都不是很高 ...。  
 關於 LinkedIn 的使用上，可以 Google 一下像這樣的關鍵字 `LinkedIn How to` ，就會看到一些不錯的文章可以參考：） 比如說這像是篇： [How To Use LinkedIn: 5 Smart Steps To Career Success - Forbes](http://www.forbes.com/sites/laurashin/2014/06/26/how-to-use-linkedin-5-smart-steps-to-career-success/#39ae800d6292) 。
+
+
+### Quora
+
+[Quora](https://www.quora.com) 是一個近幾年竄起的問答平台，創辦人是前 Facebook 元老員工，可能是因為這樣這平台經營得還滿不錯的！ 在上面常常會有超優質的答案：） 也不乏各領域的名人唷！（比如說 [Vint Cerf](https://www.quora.com/profile/Vint-Cerf) — 網路之父、 [Thomas Cormen](https://www.quora.com/profile/Thomas-Cormen-1) — 演算法聖經 Introduction to Algorithms 共同作者）
+
+- 註冊時可以選擇有興趣的主題選擇（建議註冊時就先把有興趣的都選起來，後面好像就沒有這樣方便的選擇界面了）  
+![Interestion Selection - Quora](http://i.imgur.com/NL9kg4L.png)
+- 註冊完就可以看到為你專屬打造的 Question/Answer Feed 了：Ｄ  
+![Question/Answer Feed - Quora](http://i.imgur.com/l6Iuyac.png)
+
+我在 [Quora](https://www.quora.com) 收穫滿多的，Try it and you'll see why! :)
+
+
