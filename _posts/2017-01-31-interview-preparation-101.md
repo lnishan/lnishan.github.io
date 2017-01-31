@@ -40,7 +40,7 @@ comments: true
   - 有些 Application Tracking System (ATS, 申請件處理系統) 會使用 Object Character Recognition (OCR, 光學字元識別)，特殊的字體及排版對這樣的系統往往是一種負擔。
 - 拼字及文法錯誤
   - 履歷是你多年的能力展現，僅僅一頁或兩頁的篇幅一定要好好審查各種小錯誤。
-  - 我到現在還是會對我的履歷處處刪刪改改的 XD 。
+  - 我到現在還是會對我的履歷到處刪刪改改的 XD 。
 
 #### GitHub
 
