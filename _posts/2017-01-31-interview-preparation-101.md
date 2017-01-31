@@ -2,7 +2,7 @@
 title:  "Interview Preparation 101"
 date:   2017-01-31 17:30:00 +0800
 categories: ['Internship']
-tags: ['LetsChat', 'Interview', Internship', 'Synopsys', 'Google', 'DevelopingArticle']
+tags: ['LetsChat', 'Interview', 'Internship', 'Synopsys', 'Google', 'DevelopingArticle']
 comments: true
 ---
 
@@ -26,9 +26,9 @@ comments: true
 
 - 盡量維持 1 頁，但 2 頁其實是沒問題的
   - 每份履歷平均掃過的時間只有 6 秒， 2 頁的話你的經歷必須是相關且吸引人的， Sourcer 才會認真看完。
-  - 1 頁要求應該是看公司，而不是硬性的規定，像 Google Recruiter 就有明說 2 頁是 OK 的。
+  - 1 頁要求應該是看公司而不是硬性的規定，像 Google Recruiter 就有明說 2 頁是 OK 的。
 - 重點事蹟擺前面
-  - 不管是誰看履歷，都是由上而下、由左而右，重點事蹟擺前面才能讓讀者更有興趣繼續看下去。
+  - 不管是誰看履歷，都是由上而下、由左而右，重點事蹟擺前面才能讓讀者更有興趣看下去。
   - 用簡潔有力的文字寫清楚你做了什麼，不要花寶貴的篇幅介紹與你較無關的資訊。
 - 列上該有的資訊
   - 比如說 Google 會需要至少這些資訊：聯絡方式、學校名稱、在校成績、畢業年份、個人經驗、做過的專案。
