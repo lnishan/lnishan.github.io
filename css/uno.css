@@ -1,5 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Slab:300,400)';
 @import 'https://fonts.googleapis.com/earlyaccess/cwtexhei.css';
+@import 'https://fonts.googleapis.com/earlyaccess/notosanstc.css';
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
@@ -954,7 +955,7 @@ h5,
 h5 {
 	margin-top: .8em;
 	margin-bottom: .4em;
-	font-family: "Roboto Slab", serif;
+	font-family: "Roboto Slab", "Noto Sans TC", serif;
 	font-weight: lighter;
 	color: #333238;
 	-webkit-font-smoothing: antialiased; }
@@ -993,7 +994,7 @@ blockquote {
 	background: #f8f8f8;
 	border: 1px solid #eeeeee;
 	border-radius: 3px;
-	font-family: "Roboto Slab", serif;
+	font-family: "Roboto Slab", "Noto Sans TC", serif;
 	font-weight: lighter;
 	font-style: italic;
 	font-size: 1.3em;
@@ -1068,7 +1069,7 @@ pre {
 	color: #6c6975; }
 
 .intro {
-	font-family: "Roboto Slab", serif;
+	font-family: "Roboto Slab", "Noto Sans TC", serif;
 	font-size: 1.2em;
 	font-weight: lighter;
 	color: #6c6975; }
@@ -1207,7 +1208,7 @@ hr {
 	color: #FFF; }
 
 .panel-subtitle {
-	font-family: "Roboto Slab", serif;
+	font-family: "Roboto Slab", "Noto Sans TC", serif;
 	font-size: 1.2em;
 	font-weight: lighter;
 	letter-spacing: 3px;
