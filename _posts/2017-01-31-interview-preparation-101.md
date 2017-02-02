@@ -23,7 +23,7 @@ comments: true
 
 網路上關於履歷的教學還滿多的，比如說像是這篇：
 [How can a software engineer write a killer resume? - Quora](https://www.quora.com/How-can-a-software-engineer-write-a-killer-resume)，
-網路上也也許多不錯的範本，參考範本寫出來的履歷，基本上不會有什麼大問題，不過我這邊還是提一些要點：
+網路上也有許多不錯的範本，參考一下好範本應該是不會有什麼問題，不過我這邊還是提一些要點：
 
 - 盡量維持 1 頁，但 2 頁其實是沒問題的
   - 每份履歷平均掃過的時間只有 6 秒， 2 頁的話你的經歷必須是相關且吸引人的， Recruiter 才會多花點時間認真看完。
