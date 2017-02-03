@@ -91,15 +91,16 @@ LinkedIn 上也會有人 PO 一些文章或是新聞討論各種議題，不過�
 
 #### My Preparations
 
-- 我的準備方式跟多數人不太一樣，多數人應該都是刷 [LeetCode](https://leetcode.com)題目。
-- 我打程式競賽打了 11 年了（2005 — 2016，去年退休！誒抖 ... 我是不是透露年齡啦 O.O""），這幾年閱覽、練習過幾千道程式題目，所以對演算法、資料結構和經典題目都算是滿熟悉的，其實我除了看一些範例題目外，沒有多做什麼額外的準備。  
+- 我的準備方式跟多數人不太一樣，多數人應該都是刷 [LeetCode](https://leetcode.com) 題目。
+- 我比了 11 年的程式競賽，這幾年閱覽、練習過幾千道程式題目，因此對演算法、資料結構和經典題目都算滿熟悉的；其實我除了看一些範例題目外，沒有多做什麼額外的準備。
 - 對於現在有點程度的競賽選手來說（有點程度指大約能在全國賽拿到佳作的等級），大部分的面試程式題目其實都不會很難。
 
 #### My Suggestions
 
 - 不過畢竟競賽選手是少數，就算是 Google 的面試問題，也都有完全控制在大學課程內（包括演算法、資料結構、離散數學、作業系統、計算機架構）。
-- 如果是即將修課的同學或是想複習演算法與資料結構的朋友，我會推薦我彙整的 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) ，這裡有超豐富的演算法學習資源可以與課程搭配服用！這裡面彙整了這幾年來我從網路上蒐集的各種資源，而且每一項我都有很認真篩選過。（另外反推這份 [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ，看起來是有人推薦就放進去的樣子 ... QQ）
+- 如果是即將修課的同學或是想複習演算法與資料結構的朋友，我會推薦我彙整的 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) ，這裡有超豐富的演算法學習資源可以與課程搭配服用！這裡面彙整了這幾年來我從網路上蒐集的各種資源，而且每一項我都有很認真篩選過。
 - 有興趣玩玩程式競賽的同學也可以從 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) 提供的資源開始試試看唷！
+- Google 也有整理了一份看起來很棒的 [Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html) ：）
 
 #### Additional Notes
 
