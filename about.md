@@ -17,6 +17,7 @@ A passionate, experienced and skilled computer science student.
 - [Honors](#honors)
 - [Projects](#projects)
 - [Talks](#talks)
+- [Trivia](#trivia)
 
 ---
 
@@ -98,8 +99,7 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - `IT`, `Web Development`, `Community Coordination`
   - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
   - General IT Assistance, including setting up PCs and troubleshooting issues.
-  - Wrote a simple form management system for hosting tournaments.
-  - Wrote handy tools for news publishing with JavaScript, PHP and MySQL.
+  - Wrote a simple form management system for hosting tournaments and a couple handy tools for news publishing with HTML, CSS, JavaScript, PHP and MySQL.
 
 - **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
 **Founding Board Member**, **Administrator**, **Developer**
@@ -164,7 +164,7 @@ I was the **team leader** and **main coder** in all the following contests.
 
 ## Projects
 
-- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**700+ stars**, **200+ forks** on GitHub)
+- [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) (**800+ stars**, **200+ forks** on GitHub)
   - `Markdown`, `Algorithms`, `Data Structures`
   - A curated list of awesome resources for competitive programming, algorithms and data structures. This project was aimed to connect the world to information - and it did :) .
 
@@ -176,7 +176,7 @@ I was the **team leader** and **main coder** in all the following contests.
   - `C++`, `Memory Profiling`
   - A Valgrind extension to analyze partial memory consumptions. It takes in an massif.out file and forges a new one containing only stats from functions that match the specified pattern.
 
-- [ChDict](https://github.com/lnishan/ChDict)
+- [ChiChew](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
   - A web crawler for the Chinese-Chinese dictionary published by the Ministry of Education in Taiwan. The project was written in Python3 with the help of requests and BeautifulSoup. I observed HTML sources and HTTP header requests to bypass protection mechanisms.
 
@@ -201,3 +201,9 @@ Components: (1) FingRRR, a multithreaded interaction framework built on top of O
 - [State Space Search](http://www.slideshare.net/JasmineChen23/state-space-search-66388212), NCTU Training Camp, Summer 2015
 - [Basic Enumeration](http://www.slideshare.net/JasmineChen23/basic-enumeration-chinese), NCTU Training Camp, Summer 2015
 - [Essential C/C++](http://www.slideshare.net/JasmineChen23/essential-cc), NCTU Training Camp, Winter 2015
+
+
+## Trivia
+
+- I used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
+- I moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
