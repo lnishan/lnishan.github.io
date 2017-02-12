@@ -100,20 +100,20 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
   - Attained animations with smooth gradient transitions with advanced time-driven programming.
 
 - **4Gamers** ... Taipei, Taiwan ......................... Jan 2014 － Aug 2014  
-**Internship**
+**Part-time Internship**
   - `IT`, `Web Development`
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Implemented professional web designs with HTML, CSS and JavaScript.
 
 - **eGamers** ... Work from home ......................... Jul 2012 － Dec 2013  
-**Internship**, **Community Coordinator**
+**Part-time Internship**, **Community Coordinator**
   - `IT`, `Web Development`, `Community Coordination`
   - Worked closely with Twitch celebrity streamers (5,000 - 100,000 followers).
   - General IT Assistance, including setting up PCs and troubleshooting issues.
   - Wrote a simple form management system for hosting tournaments and a couple handy tools for news publishing with HTML, CSS, JavaScript, PHP and MySQL.
 
 - **i-Feels.net** ... Hong Kong / Work from home ......... Apr 2006 － Feb 2008  
-**Founding Board Member**, **Administrator**, **Developer**
+**Cofounder**, **Administrator**, **Developer**
   - `Visual Basic`, `PHP`, `MySQL`, `Website Mangagment`
   - Cofounded i-Feels.net and its predecessor ODB - a small development studio with friends from Hong Kong.
   - i-Feels.net was one of the most popular forums in Hong Kong, having 60,000+ registered members and being amongst the top 500 websites in Hong Kong according to Alexa Traffic Rank.
@@ -189,7 +189,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [massif-cherrypick](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
-  - A Valgrind extension to analyze partial memory consumptions. Takes in an massif.out file, and forges a new one containing only stats from functions that match the specified pattern.
+  - A Valgrind extension to analyze partial memory consumptions. Takes in a massif.out file, and forges a new one containing only stats from functions that match the specified pattern.
 
 - [ChiChew](https://github.com/lnishan/ChiChew)
   - `Python`, `Web Scraping`, `Packet Inspection`
@@ -220,6 +220,7 @@ Been the **team leader** and **main coder** in all the following contests:
 ## Trivia
 
 - Used to solve a 3x3 Rubik's Cube in under 18 seconds on average.
-- Moderated UniCube.tw - then one of the most popular online forum for Rubik's cubers in Taiwan.
+- Moderated UniCube.tw - then one of the most popular online forums for Rubik's cubers in Taiwan.
 - [Has 500+ games on Steam](http://steamcommunity.com/id/lnishan) through game reselling and trading. Was the first and only person in Taiwan to do so.
 - [Has 3000+ followers on TwitchTV](https://www.twitch.tv/lnishan) being an active supporter of esports and game streaming in general.
+- Organized the [very first reddit AMA for TW/HK esports players](https://www.reddit.com/r/leagueoflegends/comments/13rca6/tpa_toyz_ama_answers_englishtchinese/).
