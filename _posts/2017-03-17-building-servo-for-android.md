@@ -66,12 +66,12 @@ unzip android-ndk-r12b-linux-x86_64.zip -d Android/Sdk
 
 #### 3.3 Set the Environment Variables
 
-Place these inside `.bashrc` (in home directory).
+Place these lines inside `.bashrc` (in home directory).
 
 ```bash
 export ANDROID_SDK="/home/#####/Android/Sdk"
 export ANDROID_NDK="/home/#####/Android/Sdk/android-ndk-r12b"
-PATH=$PATH:$ANDROID_SDK/platform-tools
+export PATH=$PATH:$ANDROID_SDK/platform-tools
 ```
 
  Then reload shell config with:
