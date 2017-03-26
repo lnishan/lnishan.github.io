@@ -51,6 +51,8 @@ Lessons I learned:
 
 #### 3.1 Download and install [Android Studio](https://developer.android.com/studio/index.html) to get the SDK. 
 
+Open a new project with Min. API set to 18.
+
 #### 3.2 Install Android NDK manually.
 
 ```bash
@@ -88,6 +90,8 @@ Lessons I learned:
 
 ## 4. Install Additional Tools
 
+Install all required tools listed on the wiki:
+
 ```bash
 # Get complete libraries
 cd $ANDROID_SDK
@@ -97,12 +101,31 @@ tools/android - update sdk --no-ui --all --filter platform-tools,android-18,buil
 sudo apt-get install ant
 ```
 
+Install openjdk-7-jdk: (**IMPORTANT**)
+
+```bash
+sudo add-apt-repository ppa:openjdk-r/ppa
+sudo apt-get update
+sudo apt-get install openjdk-7-jdk
+``` 
+
 Lessons I Learned:
 
 - The other packages mentioned in the Wiki are either nonexistent or unnecessary, at least for Ubuntu 16.04.
-- Do not install openjdk-7-jdk. If you do, run `sudo update-alternatives --config java` to revert back to Java 8.
+- Both OpenJDK 7 & 8 are required for some reason.
 
-## 5. Build and Package
+
+## 5. Building
+
+You need to build servo with **OpenJDK 7** to generate compatible java executables for Android dex.  
+Run these following commands to do so: 
+
+```bash
+sudo update-alternatives --config java
+sudo update-alternatives --config javac
+```
+
+Then you can move on to building it:  
 
 ```bash
 # Get source
@@ -112,8 +135,22 @@ cd servo
 # Build
 # Replace "--release" with "--dev" to create an unoptimized debug build.
 ./mach build --release --android
+```
 
-# Package
+
+## 6. Packaging
+
+You should revert back to **OpenJDK 8** while packaging.  
+Again with the same commands: 
+
+```bash
+sudo update-alternatives --config java
+sudo update-alternatives --config javac
+```
+
+Then proceed: 
+
+```bash
 ./mach package --release --android
 ```
 
