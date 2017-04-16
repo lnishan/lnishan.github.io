@@ -6,7 +6,8 @@ tags: ['LetsChat', 'Internship', 'Thoughts', 'Remarks', 'FinalRemarks']
 comments: true
 ---
 
-寫個簡單的結語，再兩個月就要去 Google 實習了 :)
+寫個簡單的結語，再兩個月就要去 Google 實習了 :)  
+這是我希望前面的面試系列文大家能夠看到的東西
 
 <!--more-->
 
