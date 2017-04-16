@@ -1,5 +1,5 @@
 ---
-title:  "面試相關文 － 結語"
+title:  "面試相關系列文 － 結語"
 date:   2017-04-15 14:20:00 +0800
 categories: ['Thoughts']
 tags: ['LetsChat', 'Internship', 'Thoughts', 'Remarks', 'FinalRemarks']
