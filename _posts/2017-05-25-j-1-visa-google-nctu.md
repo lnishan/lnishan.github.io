@@ -50,6 +50,15 @@ Google 的 J-1 簽證是外包給 Cultural Vistas (CV) ，整體來說 CV 給人
 
 整趟流程不包含等待 Google 提供訓練計畫的時間用了兩個月。
 
-1. 填寫 CV 所需資料
+### 填寫 CV 所需資料
 
+這個步驟是最花時間的，除了學經歷與親屬資訊，還需要準備以下文件：
 
+1. 護照影本（有效期限必須大於六個月）
+2. 三年內英文檢定（若沒有會需要另外面試）
+3. 英文履歷（ Resume or CV ）
+4. Budget Worksheet (這個用 Google Participant Insurance Certification ) 
+5. 所有過去的非訪客簽證
+6. **在學證明**  
+這個需要親自去註冊組申請一個「客製的」英文在學證明，上面必須有註明 "fulltime student" 這個字眼，我是請註冊組將後面那一句改成 "as a senior **fulltime** student"
+7. 
