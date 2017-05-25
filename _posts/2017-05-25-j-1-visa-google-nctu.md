@@ -93,14 +93,14 @@ DS-2019 是由簽證贊助商（ Cultural Vistas ）填寫，基本上在美國�
 
 ### 線上填寫 DS-160 表格並繳費、跟美國在台協會（AIT）預約面試
 
-DS-160 的填寫教學相當多，因為基本上只要申請簽證都需要填寫，我當初參考的教學是：
+我當初參考的教學是：
 
 - [美簽DS-160線上表格填寫申請教學(I)](http://www.findlifevalue.com/archives/7343)
 - [美簽DS-160線上表格填寫申請教學(II)](http://www.findlifevalue.com/archives/7354)
 - [美簽DS-160線上表格填寫申請教學(III)](http://www.findlifevalue.com/archives/7393)
 - [美簽DS-160線上表格填寫申請教學(IV)](http://www.findlifevalue.com/archives/7379)
 
-現在有新增一些問題，不過這份教學仍然是適用的 :)
+現在有新增一些問題，不過這份教學大致上仍然是適用的 :)
 
 繳費方式是印下郵局繳費單並去郵局繳費（我是就近直接去交大校內的郵局繳），費用是 4960 ，滿貴的 QQ 。
 
