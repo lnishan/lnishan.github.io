@@ -2,7 +2,7 @@
 title:  "Google Internship, J-1 Visa, NCTU"
 date:   2017-05-25 13:00:00 +0800
 categories: ['Google', 'Internship', 'Visa', 'NCTU']
-tags: ['Google', 'Internship', 'J-1', 'Visa', 'NCTU', 'DevelopingArticle']
+tags: ['Google', 'Internship', 'J-1', 'Visa', 'NCTU']
 comments: true
 ---
 
@@ -117,7 +117,7 @@ DS-2019 是由簽證贊助商（ Cultural Vistas ）填寫，去 AIT 面試時�
 7. DS-2019 （ CV 提供的）
 8. 大學畢業者要帶履歷（所以我不需要但我當天有帶）
 
-底下的我沒用到，但聽說建議攜帶：
+底下的我沒用到，但建議攜帶：
 
 9. 英文、以美金為單位的財力證明
 10. 學校成績單
