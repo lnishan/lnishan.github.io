@@ -1,6 +1,6 @@
 ---
 title:  "Internship - Step 0"
-date:   2017-01-19 15:44:00 +0800
+date:   2099-01-19 15:44:00 +0800
 categories: ['Internship']
 tags: ['LetsChat', 'Internship']
 comments: true

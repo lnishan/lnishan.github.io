@@ -1,6 +1,6 @@
 ---
 title:  "Interview Preparation 101"
-date:   2017-01-31 17:30:00 +0800
+date:   2099-01-31 17:30:00 +0800
 categories: ['Internship']
 tags: ['LetsChat', 'Interview', 'Internship', 'Synopsys', 'Google']
 comments: true
