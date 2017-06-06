@@ -1,6 +1,6 @@
 ---
 title:  "Building servo for Android"
-date:   2099-03-07 6:30:00 +0800
+date:   2017-03-07 6:30:00 +0800
 categories: ['Servo']
 tags: ['Build', 'Servo', 'Android']
 comments: true

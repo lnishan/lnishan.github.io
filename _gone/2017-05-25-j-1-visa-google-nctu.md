@@ -1,6 +1,6 @@
 ---
 title:  "Google Internship, J-1 Visa, NCTU"
-date:   2099-05-25 13:00:00 +0800
+date:   2017-05-25 13:00:00 +0800
 categories: ['Google', 'Internship', 'Visa', 'NCTU']
 tags: ['Google', 'Internship', 'J-1', 'Visa', 'NCTU']
 comments: true

@@ -1,6 +1,6 @@
 ---
 title:  "Awesome Competitive Programming"
-date:   2099-01-22 20:30:00 +0800
+date:   2017-01-22 20:30:00 +0800
 categories: ['CompetitiveProgramming']
 tags: ['CompetitiveProgramming', 'GitHub']
 comments: true
