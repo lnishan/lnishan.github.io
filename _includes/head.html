@@ -44,8 +44,8 @@
   <meta name="theme-color" content="#ece5ff">
 
   <link rel="stylesheet" href="{{ '/css/main.css'  | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ site.baseurl }}/feed.xml">
+  <link rel="canonical" href="{{ page.url | remove: '/index.html' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | xml_escape }}" href="{{ site.baseurl | site.url }}/feed.xml">
   
   <meta property="fb:admins" content="100003220421706">
   <meta property="fb:app_id" content="228652297542969">
