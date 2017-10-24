@@ -2,7 +2,7 @@
 title: 'Jasmine "lnishan" Chen'
 description: 'An eternal dream pursuer'
 url: 'https://lnishan.github.io'
-baseurl: 'https://lnishan.github.io/'
+baseurl: '/'
 timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 google_analytics: 'UA-90684411-1'
@@ -39,5 +39,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
