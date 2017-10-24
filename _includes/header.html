@@ -3,13 +3,13 @@
   <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
 </span>
   
-<header class="panel-cover" style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})">
+<header class="panel-cover" style="background-image: url({{ '/images/cover.jpg' | prepend: site.baseurl | prepend: site.url }})">
   <div class="panel-main">
 
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
-        <a href="{{ site.baseurl }}" title="link to home of {{ site.title | xml_escape }}">
-          <img src="{{ "images/profile.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
+        <a href="{{ site.baseurl | prepend: site.url }}" title="link to home of {{ site.title | xml_escape }}">
+          <img src="{{ '/images/profile.jpg' | prepend: site.baseurl | prepend: site.url }}" class="user-image" alt="My Profile Photo">
           <h1 class="panel-cover__title panel-title">{{ site.title | xml_escape }}</h1>
         </a>
         <hr class="panel-cover__divider">
@@ -20,8 +20,8 @@
 
           <nav class="cover-navigation cover-navigation--primary">
             <ul class="navigation">
-              <li class="navigation__item"><a href="{{ site.baseurl }}#blog" title="link to {{ site.title | xml_escape }} blog" class="blog-button">Blog</a></li>
-			  <li class="navigation__item"><a href="{{ site.baseurl }}about" title="link to {{ site.title | xml_escape }} about" class="blog-button">About</a></li>
+              <li class="navigation__item"><a href="{{ '/#blog' | prepend: site.baseurl | prepend: site.url }}" title="link to {{ site.title | xml_escape }} blog" class="blog-button">Blog</a></li>
+			  <li class="navigation__item"><a href="{{ '/about' | site.baseurl | prepend: site.url }}" title="link to {{ site.title | xml_escape }} about" class="blog-button">About</a></li>
             </ul>
           </nav>
 
@@ -80,7 +80,7 @@
 
             <!-- RSS -->
             <li class="navigation__item">
-              <a href="{{ "feed.xml" | prepend: site.baseurl }}" title="Subscribe" target="_blank">
+              <a href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" title="Subscribe" target="_blank">
                 <i class="icon icon-rss"></i>
                 <span class="label">RSS</span>
               </a>
