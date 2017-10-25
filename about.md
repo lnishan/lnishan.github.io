@@ -19,7 +19,7 @@ A passionate, experienced and skilled computer science student with extensive kn
   - Applied, analyzed and profiled graph algorithms on large-scale datasets.
   - Created, administered and managed multiple websites with decent web traffic.
   - Received 21 national/regional awards in programming competitions (almost always as the team leader).
-  - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,600+ stars, 400+ forks on GitHub)
+  - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub)
 
 
 ---
