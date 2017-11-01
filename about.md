@@ -8,19 +8,19 @@ permalink: /about/
 
 A passionate, experienced and skilled computer science student with extensive knowledge of programming and computer applications. An initiative taker and diligent self-learner.
 
-- Career Summary
-  - Software Engineering Intern at Google USA.
-  - R&D Intern at Synopsys Taiwan. Best Intern of the Year.
-  - 3 years of experiences in gaming industries (C++ SDK/Front-end/MIS/Community Mgmt).
-  - Been a competitive programmer for 11 years.
+Career Summary
 
-- Career Achievements
+- **Software Engineering Intern** at **Google USA**.
   - Expanded a large-scale testing framework used by Google YouTube and Search Infrastructure developers.
+- **R&D Intern** at **Synopsys Taiwan**. 
   - Applied, analyzed and profiled graph algorithms on large-scale datasets.
-  - Created, administered and managed multiple websites with decent web traffic.
-  - Received 21 national/regional awards in programming competitions (almost always as the team leader).
+  - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
+- **3 years** of experiences in **gaming industries**.
+  - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
+- Been a **competitive programmer** for **11 years**, almost always as the team leader.
+  - Received 21 national/regional awards in programming competitions.
   - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
-
+- Created, administered and managed multiple websites with decent web traffic.
 
 ---
 
@@ -54,6 +54,7 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - GPA 4.00/4.30 (Rank 1/53)
+  - Bachelor's Thesis: [**SQLGitHub**](https://github.com/lnishan/SQLGitHub), Access GitHub API with SQL-like syntaxes, In collaboration with **Mozilla Taiwan**.
   - **5** *Academic Achievement Awards* (4 in Computer Science)
   - **2** *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - **Teaching Assistant**, *Object-Oriented Programming*
@@ -62,18 +63,9 @@ Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018),
 
 ## Skills
 
-- **Specialized**
-  - `C/C++`
-  - `Algorithms`
-  - `Data Structures`
-
-- **Proficient**
-  - `Python`
-  - `Shell Scripting`
-  - `Parallel Programming` *(C++ thread/Pthread/OpenMP/CUDA/MPI)*
-  - `System/Network Administration` *(FreeBSD/Linux/macOS)*
-  - `Web Development` *(HTML/CSS/JavaScript/PHP/MySQL)*
-  - `Systems Programming`
+- Areas: **`Algorithms`**, **`Data Structures`**, `Backend Development`, `Software Engineering`, `Parallel Computing`, `Web Development`, `System Administration`
+- Languages: **`C++`**, **`C`**, **`Python`**, `Bash`, (`HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`)
+- OSes: **`Windows (Cygwin)`**, **`macOS`**, **`Linux`**, `FreeBSD`
 
 
 ## Experiences
@@ -148,7 +140,6 @@ Been the **team leader** and **main coder** in all the following contests:
   - *Honorable Mention* - `2012/Kaohsiung`
 - **National Collegiate Programming Contest**
   - *3rd Place* - `2015`
-  - *Honorable Mention* - `2014`
   - *Honorable Mention* - `2012`
 - **ITSA National Programming Contest**
   - *Honorable Mention* - `2015`
