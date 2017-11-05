@@ -6,7 +6,7 @@ permalink: /about/
 
 # Jasmine “lnishan” Chen
 
-Dedicated, proficient, and experienced CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
+Dedicated, experienced and proficient CS student with hands-on experience working with production-scale datasets and services in notable firms. Led teams and won numerous awards in programming competitions.
 
 Career Summary
 
@@ -17,7 +17,7 @@ Career Summary
   - Rated Best Intern of the Year and presented the work in Synopsys Shanghai.
 - **3 years** of experiences in **gaming industries**.
   - Wrote keyboard lighting effects, implemented website designs, managed servers and coordinated multiple events.
-- Been a **competitive programmer** for **11 years**, almost always as the team leader.
+- Been a **competitive programmer** for **11 years**, usually as the team leader.
   - Received 21 national/regional awards in programming competitions.
   - Curated a well-received learning resource collection: "Awesome Competitive Programming" (1,800+ stars, 400+ forks on GitHub).
 - Created, administered and managed multiple websites with decent web traffic.
@@ -54,7 +54,7 @@ Languages: **English** (fluent with neutral accent, TOEIC 940/990), **Chinese** 
 - **National Chiao Tung University**  
 Bachelor's Degree, **Computer Science and Engineering** (Sep 2014 － Jan 2018), Management Science (Sep 2012 － Jun 2014)
   - **GPA: 4.00**/4.30 (**Rank: 1**/53)
-  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub)], a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
+  - Bachelor's Thesis: [SQLGitHub (Python, 2017)](https://github.com/lnishan/SQLGitHub), a tool that makes managing GitHub organizations easier. Features a SQL-like syntax to query through GitHub API. In collaboration with **Mozilla Taiwan**.
   - 5 *Academic Achievement Awards* (4 in Computer Science)
   - 2 *Curricular Scholarships* (Discrete Mathematics, Data Structures)
   - Teaching Assistant, *Object-Oriented Programming*
