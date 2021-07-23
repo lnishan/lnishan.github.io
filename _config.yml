@@ -6,13 +6,11 @@ baseurl: ''
 timezone: 'Asia/Taipei'
 cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 google_analytics: 'UA-90684411-1'
-# idcomments_acct: '1284e9358393724c16dd94a61527ece0'
-# isso_server: '//comments.vps.lnishan.net/'
 excerpt_separator: '<!--more-->'
 
 author:
   name: 'Jasmine Chen'
-  email: lnishan.cs01@g2.nctu.edu.tw
+  email: jasmine.chen.cs@gmail.com
   twitter_username: lnishantw
   facebook_username: lnishantw
   github_username: lnishan
