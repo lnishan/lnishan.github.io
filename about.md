@@ -19,21 +19,6 @@ Career Summary
 ---
 
 
-## Contents
-
-- Contact
-- Education
-- Skills
-- Experience
-- Honors
-- Projects
-- Talks
-- Trivia
-
-
----
-
-
 ## Contact
 
 Languages: **English** (native), **Chinese** (native)
