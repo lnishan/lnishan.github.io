@@ -51,10 +51,10 @@ Languages: **English** (native), **Chinese** (native)
 *Taipei City, Taiwan, May 2018 (expected) –*
   - `C`, `C++`, `Systems Programming`, `Android Platforms`
   - Became the go-to person for Android camera compatibility on Chrome OS, handling issues spanning a host of components as well as multiple partners and teams. Ensured smooth Android P-to-R release upgrade and VM transition for the camera stack by identifying issues across all system components involved.
-	- Wrote and published a detailed article on orientation handling in Android camera apps. Distilled several complex factors involved in a clear, logical and digestible fashion. Identified and fixed all orientation issues in the official sample apps, including the first, widely-referenced camera2 API sample.
-	- Launched camera support for Parallels by writing a full-fledged camera client with an intricate synchronization mechanism. Added a token-based authentication mechanism to the camera platform, enabling it to distinguish all camera clients and establish granular control.
-	- Designed and implemented Zero-Shutter Lag (ZSL) on selected MediaTek and Intel platforms, reducing the shutter lag by up to 97.9%. Designed a pipeline that meticulously manipulates capture requests, making ZSL portable and customizable for Chrome OS.
-	- Enabled and launched Google Camera App as the former default camera app on Chrome OS, and took on full ownership. Added external camera support, refreshed its UI, fixed a wide array of bugs and handled app releases.
+  - Wrote and published a detailed article on orientation handling in Android camera apps. Distilled several complex factors involved in a clear, logical and digestible fashion. Identified and fixed all orientation issues in the official sample apps, including the first, widely-referenced camera2 API sample.
+  - Launched camera support for Parallels by writing a full-fledged camera client with an intricate synchronization mechanism. Added a token-based authentication mechanism to the camera platform, enabling it to distinguish all camera clients and establish granular control.
+  - Designed and implemented Zero-Shutter Lag (ZSL) on selected MediaTek and Intel platforms, reducing the shutter lag by up to 97.9%. Designed a pipeline that meticulously manipulates capture requests, making ZSL portable and customizable for Chrome OS.
+  - Enabled and launched Google Camera App as the former default camera app on Chrome OS, and took on full ownership. Added external camera support, refreshed its UI, fixed a wide array of bugs and handled app releases.
 
 - **Google**  
 **Software Engineering Intern**  
