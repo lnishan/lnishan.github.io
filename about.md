@@ -6,7 +6,7 @@ permalink: /about/
 
 # Jasmine “lnishan” Chen
 
-With more than a decade of experience in software development, Jasmine is a proficient and ambitious software engineer who specializes in C/C++, algorithms, systems programming and Android platforms. She is also experienced in various other domains such as Android app development, web technologies, system administration and continuous integration.
+With more than a decade of experience in software development, Jasmine is a proficient and ambitious software engineer who specializes in C/C++, algorithms, systems programming and Android platforms. She is also experienced in various other domains such as Android app development, web technologies, system administration.
 
 Career Summary
 
@@ -33,7 +33,7 @@ Languages: **English** (native), **Chinese** (native)
 
 - **Google**  
 **Software Engineer**  
-*Taipei City, Taiwan, May 2018 (expected) –*
+*Taipei City, Taiwan, May 2018 –*
   - `C`, `C++`, `Systems Programming`, `Android Platforms`
   - Became the go-to person for Android camera compatibility on Chrome OS, handling issues spanning a host of components as well as multiple partners and teams. Ensured smooth Android P-to-R release upgrade and VM transition for the camera stack by identifying issues across all system components involved.
   - Wrote and published a detailed article on orientation handling in Android camera apps. Distilled several complex factors involved in a clear, logical and digestible fashion. Identified and fixed all orientation issues in the official sample apps, including the first, widely-referenced camera2 API sample.
@@ -180,7 +180,7 @@ Been the **team leader** and **main coder** in all the following contests:
 
 - [Awesome Competitive Programming (Markdown, 2016)](https://github.com/lnishan/awesome-competitive-programming) 
   - `Markdown`, `Algorithms`, `Data Structures`
-  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 2,500+ and forked by 600+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
+  - A curated list of awesome resources for Competitive Programming, Algorithms and Data Structures. Currently starred by 8,000+ and forked by 2,000+ GitHub users worldwide. This project was aimed to connect the world to information - and it did :) .
 
 - [massif-cherrypick (C++, 2016)](https://github.com/lnishan/massif-cherrypick)
   - `C++`, `Memory Profiling`
