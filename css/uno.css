@@ -1124,6 +1124,7 @@ pre {
 	display: block;
 	float: right;
 	right: 0;
+	text-align: right;
 	margin-bottom: .7em; }
 	.footer__copyright a {
 		color: #a6a6a6;
