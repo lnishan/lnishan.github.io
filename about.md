@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Jasmine “lnishan” Chen
+# Jasmine Chen
 
 With more than a decade of experience in software development, Jasmine is a proficient and ambitious software engineer who specializes in C/C++, algorithms, systems programming and Android platforms. She is also experienced in various other domains such as Android app development, web technologies, system administration.
 

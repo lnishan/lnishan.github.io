@@ -1,10 +1,9 @@
 # Site settings
-title: 'Jasmine "lnishan" Chen'
-description: 'An eternal dream pursuer'
+title: 'Jasmine Chen'
+description: 'Pursuing dreams, one step at a time.'
 url: 'https://lnishan.github.io'
 baseurl: ''
 timezone: 'Asia/Taipei'
-cv: 'https://lnishan.github.io/Curriculum-Vitae/'
 google_analytics: 'UA-90684411-1'
 excerpt_separator: '<!--more-->'
 

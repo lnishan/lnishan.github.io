@@ -1,6 +1,6 @@
 # lnishan.github.io
 
-:star2: Jasmine "lnishan" Chen's website and blog
+:star2: Jasmine Chen's website and blog
 
 
 ## Powered by
